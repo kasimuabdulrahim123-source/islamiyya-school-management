@@ -1,4 +1,4 @@
-export default function HomePage() {
+       export default function HomePage() {
   return (
     <main
       style={{
@@ -91,4 +91,4 @@ export default function HomePage() {
       </footer>
     </main>
   );
-}
+} 
